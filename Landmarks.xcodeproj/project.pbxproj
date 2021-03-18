@@ -14,6 +14,7 @@
 		5B49784326029CD600A7B9C2 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5B49784226029CD600A7B9C2 /* landmarkData.json */; };
 		5B49784626029CFF00A7B9C2 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B49784526029CFF00A7B9C2 /* Landmark.swift */; };
 		5B49784926029FFA00A7B9C2 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B49784826029FFA00A7B9C2 /* ModelData.swift */; };
+		5B50E7DE2603DF3700542B9D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B50E7DD2603DF3700542B9D /* LandmarkRow.swift */; };
 		5B7008E42601ECA900DF7FDC /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B7008E32601ECA900DF7FDC /* CircleImage.swift */; };
 		5B7008E82602074100DF7FDC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B7008E72602074100DF7FDC /* MapView.swift */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,7 @@
 		5B49784226029CD600A7B9C2 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		5B49784526029CFF00A7B9C2 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		5B49784826029FFA00A7B9C2 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		5B50E7DD2603DF3700542B9D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = SOURCE_ROOT; };
 		5B7008E32601ECA900DF7FDC /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		5B7008E72602074100DF7FDC /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,6 +86,7 @@
 		5B50E7DA2603DA7700542B9D /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				5B50E7DD2603DF3700542B9D /* LandmarkRow.swift */,
 				5B0336D0260107A9002F9408 /* ContentView.swift */,
 				5B7008E32601ECA900DF7FDC /* CircleImage.swift */,
 				5B7008E72602074100DF7FDC /* MapView.swift */,
@@ -183,6 +186,7 @@
 				5B0336CF260107A9002F9408 /* LandmarksApp.swift in Sources */,
 				5B7008E42601ECA900DF7FDC /* CircleImage.swift in Sources */,
 				5B49784626029CFF00A7B9C2 /* Landmark.swift in Sources */,
+				5B50E7DE2603DF3700542B9D /* LandmarkRow.swift in Sources */,
 				5B49784926029FFA00A7B9C2 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
