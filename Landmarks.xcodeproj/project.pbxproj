@@ -18,6 +18,7 @@
 		5B50E7E72603E50100542B9D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B50E7E62603E50100542B9D /* LandmarkList.swift */; };
 		5B7008E42601ECA900DF7FDC /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B7008E32601ECA900DF7FDC /* CircleImage.swift */; };
 		5B7008E82602074100DF7FDC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B7008E72602074100DF7FDC /* MapView.swift */; };
+		5B8F6495260484D900971A34 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F6494260484D900971A34 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		5B50E7E62603E50100542B9D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		5B7008E32601ECA900DF7FDC /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		5B7008E72602074100DF7FDC /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		5B8F6494260484D900971A34 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,11 +90,12 @@
 		5B50E7DA2603DA7700542B9D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				5B50E7DD2603DF3700542B9D /* LandmarkRow.swift */,
 				5B0336D0260107A9002F9408 /* ContentView.swift */,
+				5B50E7E62603E50100542B9D /* LandmarkList.swift */,
+				5B50E7DD2603DF3700542B9D /* LandmarkRow.swift */,
+				5B8F6494260484D900971A34 /* LandmarkDetail.swift */,
 				5B7008E32601ECA900DF7FDC /* CircleImage.swift */,
 				5B7008E72602074100DF7FDC /* MapView.swift */,
-				5B50E7E62603E50100542B9D /* LandmarkList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				5B7008E82602074100DF7FDC /* MapView.swift in Sources */,
 				5B0336CF260107A9002F9408 /* LandmarksApp.swift in Sources */,
 				5B50E7E72603E50100542B9D /* LandmarkList.swift in Sources */,
+				5B8F6495260484D900971A34 /* LandmarkDetail.swift in Sources */,
 				5B7008E42601ECA900DF7FDC /* CircleImage.swift in Sources */,
 				5B49784626029CFF00A7B9C2 /* Landmark.swift in Sources */,
 				5B50E7DE2603DF3700542B9D /* LandmarkRow.swift in Sources */,
