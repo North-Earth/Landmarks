@@ -20,7 +20,7 @@ struct LandmarkRow: View {
             Spacer()
             
             if landmark.isFavorite {
-                Image(systemName: "star.Fill")
+                Image(systemName: "star.fill")
                     .foregroundColor(.yellow)
             }
         }
