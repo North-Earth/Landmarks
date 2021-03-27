@@ -12,12 +12,12 @@ struct CategoryRow: View {
     var items: [Landmark]
     
     var body: some View {
-        VStack {
+        VStack(alignment: .leading) {
             Text(categoryName)
                 .font(.headline)
                 .padding(.leading, 15)
                 .padding(.top, 5)
-            
+
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 0) {
                     ForEach(items) { landmark in
@@ -25,8 +25,8 @@ struct CategoryRow: View {
                     }
                 }
             }
+            .frame(height: 185)
         }
-        .frame(height: 185)
     }
 }
 
