@@ -22,8 +22,7 @@
 </p>
 
 <div align="center">
-    <h2>:national_park: Screenshots</h2>
-    <h3>:iphone: IOS</h3>
+    <h2>:iphone: IOS</h2>
     <strong>You can explore different attractions and add them to your favorites.</strong>
 </div>    
 <br>
