@@ -21,8 +21,11 @@
     <img src="https://img.shields.io/github/last-commit/North-Earth/Landmarks?color=blue&style=for-the-badge" alt="GitHub last commit" />
 </p>
 
-<h2 align="center">:national_park: Screenshots</h2>
-<h3 align="center">:iphone: IOS</h3>
+<div align="center">
+    <h2>:national_park: Screenshots</h2>
+    <h3>:iphone: IOS</h3>
+    <strong>You can explore different attractions and add them to your favorites.</strong>
+</div>    
 <br>
 <p align="center">
   <img src="https://i.ibb.co/wLSYYSR/Landmarks-1.png" alt="Landmarks-1" border="0" width="200px">
