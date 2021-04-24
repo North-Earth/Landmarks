@@ -3,6 +3,7 @@
     <img alt="Open Sauced" src="https://i.ibb.co/NnszWgz/landmark-app-icon-120x120.png" width="120px" />
     <h1>:world_map: Landmarks :world_map:</h1>
     <strong>An app for discovering and sharing the places you love.</strong>
+    <strong>This is a project developed as part of the <a href="https://developer.apple.com/tutorials/swiftui">SwiftUI</a> course.</strong>
 </div>
 <br>
 <p align="center">
